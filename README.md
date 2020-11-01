@@ -1,5 +1,7 @@
 <h2 align="center">Lívia Delgado</h2>
 <h3 align="center">Desenvolvedora fullstack :computer: e futura product owner</h3>
+<h4 align="center">Técnica em Informática pelo CEFET-MG</h4>
+<h4 align="center">Bacharelanda em Sistemas de Informação pela UFMG</h4>
 
 ------------------------------------------------
 - 🔭 Atualmente trabalho na [PontoTel](https://www.pontotel.com.br)
