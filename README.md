@@ -94,6 +94,7 @@
 <h4 align="center">Produto e Gestão:</h4>
 <p align="center">
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.icons8.com/nolan/64/jira.png" alt="jira" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.atlassian.com/software/trello" target="_blank"><img src="https://img.icons8.com/color/48/000000/trello.png" alt="trello" width="40" height="40" /></a>&nbsp;
   <a href="https://www.notion.so/" target="_blank"><img src="https://img.icons8.com/nolan/64/notion.png" alt="notion" width="40" height="40" /></a>&nbsp;
   <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"><img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure devops/vsts" width="40" height="40" /></a>&nbsp;
   <a href="https://miro.com/" target="_blank"><img src="https://bit.ly/38hJBBp" alt="miro" width="40" height="40" /></a>&nbsp;
