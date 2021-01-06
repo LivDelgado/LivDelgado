@@ -99,5 +99,17 @@
   <a href="https://miro.com/" target="_blank"><img src="https://bit.ly/38hJBBp" alt="miro" width="40" height="40" /></a>&nbsp;
 </p>
 
+-------------------------------------------
+<h3 align="center">Principais empresas impactadas ao longo da minha carreira</h3>
+<p align="center" justify="center">
+  <a href="https://www.dtidigital.com.br/" target="_blank"><img src="https://www.dtidigital.com.br/wp-content/uploads/2018/01/bloggif_5a5f5ebe6d4ed.jpeg" alt="dti digital" width="200" height="100" /></a>&nbsp;
+  <a href="https://www.pontotel.com.br/" target="_blank"><img src="https://cdn.pontotel.com.br/wp-content/uploads/2020/05/gen_logo_26fffaab80f60db1b12ef1e67fd0f0c7.png" alt="pontotel" width="170" height="100" /></a>&nbsp;
+  <br />
+  <br />
+  <a href="https://www.localiza.com/brasil/pt-br" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/pt/c/c8/Logotipo_da_Localiza_em_2014.png" alt="localiza" width="200" height="100" /></a>&nbsp;
+  <a href="https://animaeducacao.com.br/" target="_blank"><img src="https://monitordomercado.com.br/api/v1/image/large/1515090111055_2239edf0-f17c-11e7-a4d6-f3e584d73d12.jpg" alt="ânima educação" width="230" height="130" /></a>&nbsp;
+
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=livdelgado&show_icons=true&locale=en&layout=compact" alt="livdelgado" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=livdelgado&show_icons=true&locale=en" alt="livdelgado" /></p>
