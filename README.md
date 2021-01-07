@@ -4,7 +4,7 @@
 <h4 align="center">Bacharelanda em Sistemas de Informação pela UFMG</h4>
 
 ------------------------------------------------
-- 🔭 Atualmente trabalho na [PontoTel](https://www.pontotel.com.br)
+- :desktop_computer: Atualmente trabalho na [PontoTel](https://www.pontotel.com.br)
 
 - :smiley: Pronomes: ela/dela
 ------------------------------------------------
