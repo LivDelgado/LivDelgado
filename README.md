@@ -26,7 +26,8 @@
   
   Desenvolvido como Trabalho de Conclusão de Curso de Informática no CEFET-MG, em 2018, em conjunto com [Emanuela Amorim](https://github.com/emanuelaaj), [Joice Sena](https://github.com/joicesena) e [Nícolas Parreiras](https://github.com/niscolas). Logo por [Igor Martins](https://github.com/igormartins4)
   
-  [Link do projeto no github](https://github.com/LivDelgado/hosten-tcc)
+  [Link do projeto no github](https://github.com/LivDelgado/hosten-tcc)<br />
+  [![Vídeo Demo](http://img.youtube.com/vi/jqpe6KcBuow/0.jpg)](https://youtu.be/jqpe6KcBuow)
 </details>
 
 <details>
