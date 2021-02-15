@@ -41,6 +41,8 @@
   Surgiu a ideia do PéDeMeia a partir do desafio proposto pela Flourish no [MegaHack 2.0](https://www.megahack.com.br/resultados-2-edicao/): incentivar jovens brasileiros a poupar, investir, e entender suas finanças. Ficamos em 5º lugar no desafio!
   
   Foram 11 dias de ideação, prototipagem, projeto e desenvolvimento. Uma experiência divertida e que rendeu muitas reflexões, muitas discussões e muitos feedbacks.
+  #### Apresentação
+  [Link para apresentação em pdf](https://drive.google.com/file/d/1lT2It8Lem8RktmbEBclgQUAN0HY2eld_/view?usp=sharing)
 
   #### Pitch
   [![Pitch Pé de Meia](http://img.youtube.com/vi/ThwEpCUbq9I/0.jpg)](http://www.youtube.com/watch?v=ThwEpCUbq9I)
