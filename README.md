@@ -47,10 +47,6 @@
   [![Pitch Pé de Meia](http://img.youtube.com/vi/ThwEpCUbq9I/0.jpg)](http://www.youtube.com/watch?v=ThwEpCUbq9I)
 </details>
 
-### Scripts/Programas facilitadores
-[Gerador de planilhas com dados do SonarQube](https://github.com/dtidigitalcrafters/sonarqube-spreadsheet-generator)
-
-
 -----------------------------------------------
 <h3 align="center">Linguagens e tecnologias:</h3>
 
