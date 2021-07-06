@@ -5,7 +5,7 @@
 
 ------------------------------------------------
 - :smiley: Pronomes: ela/dela
-- 💻 Trabalho na [ThoughtWorks](https://www.thoughtworks.com/)
+- 💻 Trabalho na [Thoughtworks](https://www.thoughtworks.com/)
 ------------------------------------------------
 
 <h3 align="left">Você pode me encontrar em:</h3>
