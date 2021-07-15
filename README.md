@@ -15,6 +15,9 @@
 </p>
 
 -----------------------------------------------
+#### Você pode buscar mais informações gerais sobre meus repositórios [aqui na Wiki](https://github.com/LivDelgado/LivDelgado/wiki)!</p>
+-----------------------------------------------
+
 ## Projetos
 
 ### Atuação em desenvolvimento, gestão de projeto, priorização, ideação e arquitetura
